@@ -1,0 +1,1 @@
+Learn redux and work on a crud application using redux toolkit,redux persisted.It contains two component. First one is to add item and other one is to delete,update and render.
